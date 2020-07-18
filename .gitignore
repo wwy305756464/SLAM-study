@@ -1,0 +1,13 @@
+ build/
+*.kdev4
+.kdev4/
+*.user
+*.workspace
+*build*
+*.out
+CMakeCache.txt
+CMaeFiles
+cmake_install.cmake
+*.kdev4
+*.DS*
+.idea*
